@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Calendar</string>
+    <string name="First_Quarter">First_Quarter</string>
+    <string name="second_quarter">Second Quarter</string>
+    <string name="first_quarter">First Quarter</string>
+</resources>
